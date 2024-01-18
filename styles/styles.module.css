@@ -1,0 +1,50 @@
+.container{
+    padding-top: 56px;
+}
+
+.navbar{
+    background-color: #343a40;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbarBrand{
+    color: aliceblue;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.navbarNav{
+    list-style: none;    
+    display: flex;
+}
+
+.navbarItem{
+    margin-left: 20px;
+}
+
+.navLink{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: blueviolet;
+    padding: 20px 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
